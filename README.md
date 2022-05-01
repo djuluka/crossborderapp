@@ -1,7 +1,5 @@
 # crossborderapp
 
-A new Flutter project.
-
 ## Getting Started
 
 1 – npm install
